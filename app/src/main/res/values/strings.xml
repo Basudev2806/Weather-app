@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OpenWeatherMap</string>
+    <string name="search_city_name">Search City Name</string>
+    <string name="city_country_code">CITY, COUNTRY CODE</string>
+    <string name="date_time">DATE, TIME</string>
+    <string name="status">Status</string>
+    <string name="_29_c">29°C</string>
+    <string name="time">Time</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="basudev_kar">Basudev kar</string>
+    <string name="created_by">Created By</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind">Wind</string>
+    <string name="sunset">Sunset</string>
+</resources>
